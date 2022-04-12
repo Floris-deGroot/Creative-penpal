@@ -9,3 +9,5 @@
 - We do not take any responsibilty for failures of the machine or injuries during operation. 
 
 - If something brakes, contact **f.j.t.degroot@student.tudelft.nl** I still have spare parts and can print new ones. 
+
+- The **turn_pen.ino code** can be used to turn the pen holder back to an upright position in case it is out of allign ment. Use the **art** and the **signature (mondrio)** button to do this
