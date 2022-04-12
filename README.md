@@ -11,3 +11,5 @@
 - If something brakes, contact **f.j.t.degroot@student.tudelft.nl** I still have spare parts and can print new ones. 
 
 - The **turn_pen.ino code** can be used to turn the pen holder back to an upright position in case it is out of allign ment. Use the **art** and the **signature (mondrio)** button to do this
+
+- The pen holder should hold any standart fineliner pen. you can either tape the pens or shim a little piece of paper inbetween to hold the pens tighter (otherwise they might slip out on contact with the drawing paper) 
